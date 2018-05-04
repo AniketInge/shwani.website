@@ -1,2 +1,2 @@
 # shwani.website
-Web App for Shweta and Aniket's marriage
+Web App for Shweta and Aniket's marriage.
