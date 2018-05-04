@@ -1,0 +1,33 @@
+{
+  "name": "shwani.website",
+  "version": "1.0.0",
+  "description": "Web App for Shweta and Aniket's marriage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniketInge/shwani.website.git"
+  },
+  "keywords": [
+    "Shweta",
+    "Aniket",
+    "Marriage"
+  ],
+  "author": "Aniket & Shweta",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/AniketInge/shwani.website/issues"
+  },
+  "homepage": "https://github.com/AniketInge/shwani.website#readme",
+  "dependencies": {
+    "angular": "^1.6.10",
+    "bootstrap": "^4.1.1",
+    "chai": "^4.1.2",
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "mocha": "^5.1.1",
+    "popper.js": "^1.14.3"
+  }
+}
