@@ -8,6 +8,7 @@ Web App for Shweta and Aniket's marriage.
 * Install concurrently globally
 * Install Karma Karma-Cli globally
 * Install create-react-app globally
+* Install bower globaly
 * Update local npm installation
 * Install packages locally using `npm install`
 
